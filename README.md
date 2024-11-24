@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @ameeupadhyay
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="left" width="200" height="200" alt="amee" src="https://github.com/user-attachments/assets/f18a649f-7a11-41b7-b6c7-8c114ba8893f"/>
 
-<!---
-ameeupadhyay/ameeupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello World! This is Amee Upadhyay 👋
+
+As a backend developer with 1.5 years of hands-on experience, I am dedicated to writing clean, maintainable, and efficient code. My expertise spans server-side programming, database management, and API development. I am eager to take on new challenges, broaden my expertise in emerging technologies, and apply my knowledge to build impactful solutions that make a difference while contributing meaningfully to dynamic teams.
+
+
+<br>
+<br>
+
+### About Me 🚀
+
+- 🔭 Currently working on backend development projects.
+- 📈 Passionate about backend development with an interest in expanding skills to full-stack development.
+- 🤓 Open to collaboration opportunities on MERN-based, Python-based 🐍, or frontend-focused projects.
+- 📫 Contact me via my [website](https://amee-portfolio.vercel.app/)
+- 📝 Review my [Resume](https://github.com/ameeupadhyay/amee-portfolio/blob/main/public/assets/Amee_Resume.pdf) for additional information.
+
+<br>
+
+### Languages and Tools 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://express.org/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://mongodb.org/)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![My Skills](https://skillicons.dev/icons?i=html)](ttps://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<br>
+
+
+### Connect with Me 🌐
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amee812/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:amee0812.ad@gmail.com)
+
+
+<br clear="left" />
+
+
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
