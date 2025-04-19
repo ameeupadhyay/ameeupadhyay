@@ -2,7 +2,7 @@
 
 ### Hello World! This is Amee Upadhyay 👋
 
-As a backend developer with 1.5 years of hands-on experience, I am dedicated to writing clean, maintainable, and efficient code. My expertise spans server-side programming, database management, and API development. I am eager to take on new challenges, broaden my expertise in emerging technologies, and apply my knowledge to build impactful solutions that make a difference while contributing meaningfully to dynamic teams.
+As a backend developer with approximately 2 years of hands-on experience, I am dedicated to writing clean, maintainable, and efficient code. My expertise spans server-side programming, database management, and API development. I am eager to take on new challenges, broaden my expertise in emerging technologies, and apply my knowledge to build impactful solutions that make a difference while contributing meaningfully to dynamic teams.
 
 
 <br>
