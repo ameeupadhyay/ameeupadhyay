@@ -13,8 +13,8 @@ As a Software Engineer with approximately 3 years of hands-on experience, I am d
 - 🔭 Currently working on backend development projects.
 - 📈 Passionate about backend development with an interest in expanding skills to full-stack development.
 - 🤓 Open to collaboration opportunities on MERN-based, Python-based 🐍, or frontend-focused projects.
-- 📫 Contact me via my [website](https://amee-portfolio.vercel.app/)
-- 📝 Review my [Resume](https://github.com/ameeupadhyay/amee-portfolio/blob/main/public/assets/Amee_Resume.pdf) for additional information.
+- 📫 Contact me via my [website](https://amee-upadhyay.netlify.app/)
+- 📝 Review my [Resume](https://github.com/ameeupadhyay/my-portfolio/blob/main/public/assets/Amee_Resume.pdf) for additional information.
 
 <br>
 
