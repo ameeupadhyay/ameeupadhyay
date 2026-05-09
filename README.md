@@ -34,11 +34,15 @@ As a Software Engineer with approximately 3 years of hands-on experience, I am d
 
 ### AI Tools 🤖
 
-![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-black?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-orange?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-blue?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-pink?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green?style=for-the-badge)
+[![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-black?style=for-the-badge)](https://cursor.com/)
+
+[![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-orange?style=for-the-badge)](https://www.anthropic.com/claude)
+
+[![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-blue?style=for-the-badge)](https://gemini.google.com/)
+
+[![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-pink?style=for-the-badge)](https://lovable.dev/)
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green?style=for-the-badge)](https://openai.com/)
 
 <br>
 
