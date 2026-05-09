@@ -2,7 +2,7 @@
 
 ### Hello World! This is Amee Upadhyay 👋
 
-As a backend developer with approximately 3 years of hands-on experience, I am dedicated to writing clean, maintainable, and efficient code. My expertise spans server-side programming, database management, and API development. I am eager to take on new challenges, broaden my expertise in emerging technologies, and apply my knowledge to build impactful solutions that make a difference while contributing meaningfully to dynamic teams.
+As a Software Engineer with approximately 3 years of hands-on experience, I am dedicated to writing clean, maintainable, and efficient code. My expertise spans server-side programming, database management, and API development. I am eager to take on new challenges, broaden my expertise in emerging technologies, and apply my knowledge to build impactful solutions that make a difference while contributing meaningfully to dynamic teams.
 
 
 <br>
@@ -29,6 +29,7 @@ As a backend developer with approximately 3 years of hands-on experience, I am d
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![My Skills](https://skillicons.dev/icons?i=html)](ttps://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 <br>
 
