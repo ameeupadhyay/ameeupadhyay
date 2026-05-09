@@ -30,6 +30,15 @@ As a Software Engineer with approximately 3 years of hands-on experience, I am d
 [![My Skills](https://skillicons.dev/icons?i=html)](ttps://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
+
+### AI Tools 🤖
+
+![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-AI%20Assistant-orange?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-Google%20AI-blue?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-pink?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-green?style=for-the-badge)
 
 <br>
 
